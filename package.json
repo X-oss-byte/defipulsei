@@ -18,7 +18,7 @@
     "axios": "^0.19.0",
     "bignumber.js": "^9.1.1",
     "bottleneck": "^2.19.5",
-    "chai": "^4.2.0",
+    "chai": "^4.3.7",
     "csv-writer": "1.6.0",
     "delay": "^5.0.0",
     "dotenv": "^8.2.0",
