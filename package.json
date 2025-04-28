@@ -34,7 +34,7 @@
     "shelljs": "^0.8.5",
     "terminal-kit": "^1.35.2",
     "underscore": "^1.9.1",
-    "web3-utils": "^1.2.6"
+    "web3-utils": "^1.10.4"
   },
   "engines": {
     "node": "10.24.1"
